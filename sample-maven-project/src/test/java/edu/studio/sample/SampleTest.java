@@ -13,7 +13,7 @@ class SampleTest {
 
     @Test
     void test() {
-        assertEquals(1, 1);
+        assertEquals(true);
     }
 
 }
